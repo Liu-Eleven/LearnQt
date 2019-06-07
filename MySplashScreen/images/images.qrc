@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>new.png</file>
+        <file>splash.bmp</file>
+    </qresource>
+</RCC>
